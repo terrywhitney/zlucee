@@ -1,4 +1,5 @@
 # zlucee
 updated binary distrobutions for the the Lucee project
 
-zlucee-express-tomcat9090.zip  created on 12/26/2024
+**Lucee Express 6.x Stable with Tomcat 9.0.98 created on 12/26/2024 **
+    Download URL https://www.mediafire.com/file/ahu346oowcyqgbv/zlucee-express-tomcat9098.zip/file
